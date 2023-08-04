@@ -1,10 +1,10 @@
 
-#  <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="25"/> Day 3 -  Flex Panel Gallery
+#  <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="25"/> Day 4 -  Flex Panel Gallery
  
 ### 🔗 Links
 
-- Solution URL: [Click here]()
-- Live Site URL: [Click here]()
+- Solution URL: [Click here](https://github.com/NehalSahu8055/Day-4-Flex-Panel_Gallery)
+- Live Site URL: [Click here](https://flex-panel-gallery-nehal.netlify.app/)
 
 
 ### 🛠️ Built with
